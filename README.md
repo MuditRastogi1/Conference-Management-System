@@ -179,6 +179,3 @@ Please ensure that your code follows the project's coding standards and includes
 ## Contact
 
 For any questions or inquiries, please contact the project maintainers:
-
-- **Project Lead**: Görkem Turkut (gorkemturkut@hotmail.com)
-- [My GitHub Profile](https://github.com/gorkemturkut57)
